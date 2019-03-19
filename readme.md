@@ -10,3 +10,7 @@ This repository contain research questions
   - Q2a
   - Q2b
 * Q3
+
+---
+Contact us
+---
